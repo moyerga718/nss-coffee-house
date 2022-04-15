@@ -1,0 +1,28 @@
+main {
+    font-size: 20px;
+}
+
+.pageHeader {
+text-align: center;
+margin: 0px;
+padding: 10px 0px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-basis: 30%;
+    text-align: left;
+    padding: 1em;
+    margin: 0em;
+}
+
+.shop {
+    border: dotted black 1px;
+    width: 30%
+}
+
+.rep-container{
+    text-align: center;   
+}
